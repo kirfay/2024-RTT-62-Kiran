@@ -29,5 +29,8 @@ public class Homework303_2_1 {
         double y = 50.55;
 
         double sum3= x + y;
+
+        //Write a program that declares two integer variables, assigns an integer to each, and divides the larger number by the smaller number. Assign the result to a variable. Print out the result. Now change the larger number to a decimal.
+        //What happens? What corrections are needed?
     }
 }
