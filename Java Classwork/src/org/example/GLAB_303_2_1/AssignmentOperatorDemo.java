@@ -1,6 +1,6 @@
 package org.example.GLAB_303_2_1;
 
-public class AssignmentOperatorsDemo { public class AssignmentOperatorsDemo {
+public class AssignmentOperatorDemo {
     public static void main(String args[]) {
         //   Assigning Primitive Values
         int j, k;
@@ -16,4 +16,4 @@ public class AssignmentOperatorsDemo { public class AssignmentOperatorsDemo {
         System.out.println("k is : " + k);
     }
 }
-}
+
