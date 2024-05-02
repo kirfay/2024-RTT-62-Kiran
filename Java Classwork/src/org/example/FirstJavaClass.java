@@ -22,5 +22,16 @@ public class FirstJavaClass {
 
         char ch = 'Z';
         System.out.println(ch);
+
+
+        //-----
+        int zero = 4 % 2;
+        int one = 5 % 2;
+         // Modulus is an important concept to know
+        // single equal is used to assign a variable?
+
+        // increment Operator is important
+        // really check answer for floating-point arithmetic
+
     }
 }
