@@ -32,5 +32,13 @@ public class Homework303_2_1 {
 
         //Write a program that declares two integer variables, assigns an integer to each, and divides the larger number by the smaller number. Assign the result to a variable. Print out the result. Now change the larger number to a decimal.
         //What happens? What corrections are needed?
+
+        int v1 = 5;
+        int v2 = 2;
+
+        double div = (double)v1 / (double)v2;
+        System.out.println(div);
+
+
     }
 }

@@ -4,6 +4,7 @@
     <list default="true" id="73e0de02-cbe0-4277-beba-f720fe5463b1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/org/example/FirstJavaClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/ScannerExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/example/Homework303_2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/Homework303_2_1.java" afterDir="false" />
     </list>
@@ -94,26 +95,26 @@
     </state>
     <state x="116" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.733@0.23.1280.733" timestamp="1714588348277" />
     <state x="116" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.734@0.23.1280.734" timestamp="1714590867218" />
-    <state width="1051" height="183" key="GridCell.Tab.0.bottom" timestamp="1714657368703">
+    <state width="971" height="183" key="GridCell.Tab.0.bottom" timestamp="1714659054340">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
     <state width="1051" height="183" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1714656322182" />
-    <state width="1051" height="183" key="GridCell.Tab.0.bottom/0.23.1280.738@0.23.1280.738" timestamp="1714657368703" />
-    <state width="1051" height="183" key="GridCell.Tab.0.center" timestamp="1714657368702">
+    <state width="971" height="183" key="GridCell.Tab.0.bottom/0.23.1280.738@0.23.1280.738" timestamp="1714659054340" />
+    <state width="971" height="183" key="GridCell.Tab.0.center" timestamp="1714659054338">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
     <state width="1051" height="183" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1714656322181" />
-    <state width="1051" height="183" key="GridCell.Tab.0.center/0.23.1280.738@0.23.1280.738" timestamp="1714657368702" />
-    <state width="1051" height="183" key="GridCell.Tab.0.left" timestamp="1714657368701">
+    <state width="971" height="183" key="GridCell.Tab.0.center/0.23.1280.738@0.23.1280.738" timestamp="1714659054338" />
+    <state width="971" height="183" key="GridCell.Tab.0.left" timestamp="1714659054337">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
     <state width="1051" height="183" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1714656322180" />
-    <state width="1051" height="183" key="GridCell.Tab.0.left/0.23.1280.738@0.23.1280.738" timestamp="1714657368701" />
-    <state width="1051" height="183" key="GridCell.Tab.0.right" timestamp="1714657368702">
+    <state width="971" height="183" key="GridCell.Tab.0.left/0.23.1280.738@0.23.1280.738" timestamp="1714659054337" />
+    <state width="971" height="183" key="GridCell.Tab.0.right" timestamp="1714659054339">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
     <state width="1051" height="183" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1714656322182" />
-    <state width="1051" height="183" key="GridCell.Tab.0.right/0.23.1280.738@0.23.1280.738" timestamp="1714657368702" />
+    <state width="971" height="183" key="GridCell.Tab.0.right/0.23.1280.738@0.23.1280.738" timestamp="1714659054339" />
     <state x="175" y="23" key="SettingsEditor" timestamp="1714594649989">
       <screen x="0" y="23" width="1280" height="736" />
     </state>
@@ -125,5 +126,10 @@
       <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state x="513" y="301" key="com.intellij.ide.util.TipDialog/0.23.1280.733@0.23.1280.733" timestamp="1714585834902" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Classwork$Homework303_2_1.ic" NAME="Homework303_2_1 Coverage Results" MODIFIED="1714659053395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
   </component>
 </project>
