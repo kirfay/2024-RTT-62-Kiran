@@ -2,27 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73e0de02-cbe0-4277-beba-f720fe5463b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/ArithmeticOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/AssignmentOperatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/BitwiseOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/LogicalOperatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/RelationalOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/TernaryOperatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/UnaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_2/AutoPromoteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_2/AutoTypeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_2/ExplicitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/Homework303_2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/slide_303_3_3/StringBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/slide_303_3_3/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/IndexOfmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/IsEmptymethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/Replacemethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/Substringmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/Trimmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/charAtmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/compareTomethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/concatmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/containsmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/lengthmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/splitmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/toLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_2/ReadingStringFromConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_2/ReadingStringFromConsole2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/FirstJavaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/FirstJavaClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/AssignmentOperatorsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/Homework303_2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/Homework303_2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/ScannerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/example/Homework303_2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/Homework303_2_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +49,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.ExplicitTest">
-    <configuration name="AutoPromoteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.GLAB_303_2_2.AutoPromoteTest" />
+  <component name="RunManager" selected="Application.Replacemethod">
+    <configuration name="Replacemethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.GLAB_303_3_1.Replacemethod" />
       <module name="Java Classwork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.GLAB_303_2_2.*" />
+          <option name="PATTERN" value="org.example.GLAB_303_3_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AutoTypeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.GLAB_303_2_2.AutoTypeConversion" />
+    <configuration name="charAtmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.GLAB_303_3_1.charAtmethod" />
       <module name="Java Classwork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.GLAB_303_2_2.*" />
+          <option name="PATTERN" value="org.example.GLAB_303_3_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BitwiseOperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.GLAB_303_2_1.BitwiseOperatorsDemo" />
+    <configuration name="compareTomethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.GLAB_303_3_1.compareTomethod" />
       <module name="Java Classwork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.GLAB_303_2_1.*" />
+          <option name="PATTERN" value="org.example.GLAB_303_3_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExplicitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.GLAB_303_2_2.ExplicitTest" />
+    <configuration name="concatmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.GLAB_303_3_1.concatmethod" />
       <module name="Java Classwork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.GLAB_303_2_2.*" />
+          <option name="PATTERN" value="org.example.GLAB_303_3_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.GLAB_303_2_1.UnaryOperator" />
+    <configuration name="toLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.GLAB_303_3_1.toLowerCase" />
       <module name="Java Classwork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.GLAB_303_2_1.*" />
+          <option name="PATTERN" value="org.example.GLAB_303_3_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,19 +116,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BitwiseOperatorsDemo" />
-      <item itemvalue="Application.UnaryOperator" />
-      <item itemvalue="Application.AutoTypeConversion" />
-      <item itemvalue="Application.AutoPromoteTest" />
-      <item itemvalue="Application.ExplicitTest" />
+      <item itemvalue="Application.toLowerCase" />
+      <item itemvalue="Application.concatmethod" />
+      <item itemvalue="Application.charAtmethod" />
+      <item itemvalue="Application.compareTomethod" />
+      <item itemvalue="Application.Replacemethod" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExplicitTest" />
-        <item itemvalue="Application.AutoPromoteTest" />
-        <item itemvalue="Application.AutoTypeConversion" />
-        <item itemvalue="Application.UnaryOperator" />
-        <item itemvalue="Application.BitwiseOperatorsDemo" />
+        <item itemvalue="Application.Replacemethod" />
+        <item itemvalue="Application.compareTomethod" />
+        <item itemvalue="Application.charAtmethod" />
+        <item itemvalue="Application.concatmethod" />
+        <item itemvalue="Application.toLowerCase" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +150,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -210,10 +207,10 @@
     <state x="175" y="23" key="SettingsEditor/0.23.1280.733@0.23.1280.733" timestamp="1714588182301" />
     <state x="175" y="23" key="SettingsEditor/0.23.1280.734@0.23.1280.734" timestamp="1714590335992" />
     <state x="175" y="23" key="SettingsEditor/0.23.1280.736@0.23.1280.736" timestamp="1714594649989" />
-    <state x="513" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1714585834902">
+    <state x="513" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1714736021144">
       <screen x="0" y="23" width="1280" height="733" />
     </state>
-    <state x="513" y="301" key="com.intellij.ide.util.TipDialog/0.23.1280.733@0.23.1280.733" timestamp="1714585834902" />
+    <state x="513" y="301" key="com.intellij.ide.util.TipDialog/0.23.1280.733@0.23.1280.733" timestamp="1714736021144" />
     <state x="756" y="123" key="extract.method.dialog" timestamp="1714663465336">
       <screen x="0" y="23" width="1280" height="738" />
     </state>
