@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73e0de02-cbe0-4277-beba-f720fe5463b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/example/Homework303_4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/Slide_303_4/CaseStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/Slide_303_4/EnumExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/Slide_303_4/IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/Slide_303_4/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/Slide_303_5/ForLoopExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/Slide_303_5/WhileLoopsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/_GLAB_303_5_2/displayfivetimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/_GLAB_303_5_2/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/_GLAB_303_5_2/pyramidexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/_GLAB_303_5_2/sumofnaturalnumb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/BitwiseOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/BitwiseOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/LogicalOperatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/LogicalOperatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/RelationalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/RelationalOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/UnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_1/UnaryOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/GLAB_303_2_2/AutoPromoteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_2/AutoPromoteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/GLAB_303_2_2/ExplicitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_2_2/ExplicitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/IsEmptymethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/IsEmptymethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/Substringmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/Substringmethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/concatmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/concatmethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/containsmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/GLAB_303_3_1/containsmethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/example/Homework303_4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/Homework303_4_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
