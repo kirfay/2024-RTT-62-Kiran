@@ -4,11 +4,11 @@ public class ExplicitTest {
     public static void main(String[] args) {
         double d = 100.04;
         // explicit type casting
-        long l = (long)d;
-        int i = (int)l;
-        System.out.println("Double value "+d);
-        System.out.println("Long value "+l);
-        System.out.println("Int value "+i);
+        long l = (long) d;
+        int i = (int) l;
+        System.out.println("Double value " + d);
+        System.out.println("Long value " + l);
+        System.out.println("Int value " + i);
 
         byte b;
         int z = 257;

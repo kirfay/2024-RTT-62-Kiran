@@ -1,8 +1,7 @@
 package org.example.GLAB_303_2_1;
 
 public class UnaryOperator {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         int sum = +1;
         // sum is now 1
         System.out.println(sum);
