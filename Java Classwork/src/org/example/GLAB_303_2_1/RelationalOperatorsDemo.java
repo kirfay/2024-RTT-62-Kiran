@@ -1,15 +1,14 @@
 package org.example.GLAB_303_2_1;
 
 public class RelationalOperatorsDemo {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         int x = 10, y = 5;
-        System.out.println("x > y : "+(x > y));
-        System.out.println("x < y : "+(x < y));
-        System.out.println("x >= y : "+(x >= y));
-        System.out.println("x <= y : "+(x <= y));
-        System.out.println("x == y : "+(x == y));
-        System.out.println("x != y : "+(x != y));
+        System.out.println("x > y : " + (x > y));
+        System.out.println("x < y : " + (x < y));
+        System.out.println("x >= y : " + (x >= y));
+        System.out.println("x <= y : " + (x <= y));
+        System.out.println("x == y : " + (x == y));
+        System.out.println("x != y : " + (x != y));
 
         int variable1 = 50, variable2 = 100, variable3 = 50;
         System.out.println("variable1 = " + variable1);

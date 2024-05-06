@@ -1,8 +1,7 @@
 package org.example.GLAB_303_2_2;
 
 public class AutoPromoteTest {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         byte b = 42;
         char c = 'a';
         short s = 1024;
