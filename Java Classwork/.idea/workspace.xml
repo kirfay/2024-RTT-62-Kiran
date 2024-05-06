@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73e0de02-cbe0-4277-beba-f720fe5463b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/example/_GLAB_303_5_2/displayfivetimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/_GLAB_303_5_2/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/_GLAB_303_5_2/pyramidexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/example/_GLAB_303_5_2/sumofnaturalnumb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/Slides_303_6/ArrayDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/Slides_303_6/ArrayInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/Slides_303_6/Arraysexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/example/Slides_303_6/SmallestValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/example/Homework303_4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/Homework303_4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/example/_GLAB_303_5_2/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/example/_GLAB_303_5_2/palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
